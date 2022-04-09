@@ -107,7 +107,6 @@ def calculate_score(genes, gem_id, h_dict, agent_location, score, turn):
     # print(f"{[(gem_id[genes[i]][1],gem_id[genes[i]][2]) for i in range(len(genes))]}   =>   {score}")
     return score
 
-
 def order_xover(a, b, start, stop):
     child = [None] * len(a)
     # Copy a slice from first parent:
@@ -203,8 +202,6 @@ def get_best(geneSet, get_fitness, gem_id, h_dict, agent_location, score, turn):
         # print('50 Chossen for next generation')
         # for i in sorted_parent:
         #     print(i.Fitness)
-        # print('----------------------------------------')
-        # print('\n\n\n\n')
         best = bestparent2[-1]
         if best_answer is None:
             best_answer = best
@@ -234,6 +231,8 @@ def pmx(a, b, start, stop):
         if x == None:
             child[ind] = b[ind]
     return child
+
+# Ebi was here....
 
 
 def pmx_pair(a, b, gem_id, h_dict, agent_location, score, turn):

@@ -4,6 +4,7 @@ import json
 import socket
 import numpy as np
 
+# ...
 
 def read_utf(connection: socket.socket):
     # length = struct.unpack('>H', connection.recv(2))[0]
