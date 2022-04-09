@@ -1,0 +1,360 @@
+TURN 1 
+EA  E   E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 2 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 3 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 4 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 5 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 6 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 7 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 8 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 9 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 10 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 11 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 12 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 13 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 14 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 15 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 16 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 17 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 18 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 19 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 20 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 21 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 22 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 23 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 24 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 25 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 26 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 27 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 28 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 29 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 30 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 31 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 32 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 33 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 34 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 35 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 36 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 37 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 38 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 39 
+E   E   EA  E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
+TURN 40 
+E   EA  E   E   E   E   1   1   E   W   4   T   T   T   E   
+W   W   W   W   W   W   W   1   W   W   W   W   W   W   W   
+1   E   E   E   E   E   E   1   E   E   E   E   E   T   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+1   1   1   E   E   E   E   E   E   E   E   E   E   E   2   
+1   E   E   E   E   E   E   E   E   E   E   E   E   E   E   
+E   E   E   E   E   E   E   E   E   E   E   E   E   2   E   
+----------
